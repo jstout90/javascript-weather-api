@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.container {
+    max-width: 1200px;
+    margin: auto;
+    min-height: 100vh;
+    background-color: skyblue;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+}
+
+#weather-id {
+    vertical-align: middle;
+}
+
+.location-container {
+    width: 50%;
+}
+
+.forecast-container{
+    width: 90%;
+    
+}
+
+.map-container {
+    width: 90%;
+    height: 90%;
+}
