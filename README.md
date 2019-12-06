@@ -10,7 +10,7 @@ Just using Javascript / ES6.
 ## Visit site here:
 https://verbena-bowler.glitch.me/
 
-## Tech/framework used
+## Tech/libraries used
 
 <b>Built with</b>
 - [moment.js](https://momentjs.com)
